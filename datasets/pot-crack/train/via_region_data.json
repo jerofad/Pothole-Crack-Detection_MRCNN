@@ -1,0 +1,3465 @@
+{
+  "_via_settings": {
+    "ui": {
+      "annotation_editor_height": 20,
+      "annotation_editor_fontsize": 0.8,
+      "leftsidebar_width": 18,
+      "image_grid": {
+        "img_height": 80,
+        "rshape_fill": "none",
+        "rshape_fill_opacity": 0.3,
+        "rshape_stroke": "yellow",
+        "rshape_stroke_width": 2,
+        "show_region_shape": true,
+        "show_image_policy": "all"
+      },
+      "image": {
+        "region_label": "Class",
+        "region_label_font": "10px Sans"
+      }
+    },
+    "core": {
+      "buffer_size": 18,
+      "filepath": {},
+      "default_filepath": ""
+    },
+    "project": {
+      "name": "Pothole_crack"
+    }
+  },
+  "_via_img_metadata": {
+    "001.jpg29511": {
+      "filename": "001.jpg",
+      "size": 29511,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 7,
+            "y": 167,
+            "width": 121,
+            "height": 48
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 320,
+            "y": 126,
+            "width": 157,
+            "height": 53
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 155,
+            "y": 149,
+            "width": 137,
+            "height": 36
+          },
+          "region_attributes": {
+            "Class": "crack\n"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "002.jpg29088": {
+      "filename": "002.jpg",
+      "size": 29088,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 22,
+            "y": 151,
+            "width": 435,
+            "height": 157
+          },
+          "region_attributes": {
+            "Class": "crack\n"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "003.jpg24840": {
+      "filename": "003.jpg",
+      "size": 24840,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 217,
+            "y": 143,
+            "width": 249,
+            "height": 67
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "004.jpg25203": {
+      "filename": "004.jpg",
+      "size": 25203,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 99,
+            "y": 193,
+            "width": 252,
+            "height": 25
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 394,
+            "y": 211,
+            "width": 83,
+            "height": 82
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 237,
+            "width": 81,
+            "height": 70
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "005.jpg26374": {
+      "filename": "005.jpg",
+      "size": 26374,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 21,
+            "y": 200,
+            "width": 449,
+            "height": 45
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "006.jpg31555": {
+      "filename": "006.jpg",
+      "size": 31555,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 15,
+            "y": 143,
+            "width": 431,
+            "height": 45
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "007.jpg24579": {
+      "filename": "007.jpg",
+      "size": 24579,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 44,
+            "y": 144,
+            "width": 199,
+            "height": 35
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 317,
+            "y": 160,
+            "width": 153,
+            "height": 97
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "008.jpg25012": {
+      "filename": "008.jpg",
+      "size": 25012,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 26,
+            "y": 31,
+            "width": 87,
+            "height": 71
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 193,
+            "y": 97,
+            "width": 123,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 347,
+            "y": 71,
+            "width": 115,
+            "height": 72
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "009.jpg30827": {
+      "filename": "009.jpg",
+      "size": 30827,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 25,
+            "y": 135,
+            "width": 408,
+            "height": 46
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "010.jpg23646": {
+      "filename": "010.jpg",
+      "size": 23646,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 12,
+            "y": 129,
+            "width": 215,
+            "height": 51
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 307,
+            "y": 107,
+            "width": 158,
+            "height": 65
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "011.jpg26784": {
+      "filename": "011.jpg",
+      "size": 26784,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 225,
+            "y": 140,
+            "width": 97,
+            "height": 45
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 395,
+            "y": 116,
+            "width": 36,
+            "height": 23
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 11,
+            "y": 133,
+            "width": 80,
+            "height": 48
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "012.jpg36023": {
+      "filename": "012.jpg",
+      "size": 36023,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 9,
+            "y": 63,
+            "width": 187,
+            "height": 52
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 14,
+            "y": 143,
+            "width": 181,
+            "height": 68
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 271,
+            "y": 78,
+            "width": 193,
+            "height": 171
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "013.jpg33581": {
+      "filename": "013.jpg",
+      "size": 33581,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 47,
+            "y": 106,
+            "width": 409,
+            "height": 149
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "014.jpg26576": {
+      "filename": "014.jpg",
+      "size": 26576,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 9,
+            "y": 155,
+            "width": 173,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 145,
+            "width": 229,
+            "height": 44
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "015.jpg28147": {
+      "filename": "015.jpg",
+      "size": 28147,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 11,
+            "y": 140,
+            "width": 127,
+            "height": 43
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 138,
+            "width": 133,
+            "height": 42
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "016.jpg32218": {
+      "filename": "016.jpg",
+      "size": 32218,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 22,
+            "y": 125,
+            "width": 111,
+            "height": 50
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 191,
+            "y": 130,
+            "width": 122,
+            "height": 57
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 27,
+            "width": 95,
+            "height": 95
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "017.jpg28435": {
+      "filename": "017.jpg",
+      "size": 28435,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 244,
+            "y": 5,
+            "width": 47,
+            "height": 271
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "018.jpg24644": {
+      "filename": "018.jpg",
+      "size": 24644,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 6,
+            "y": 157,
+            "width": 169,
+            "height": 67
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 225,
+            "y": 115,
+            "width": 89,
+            "height": 63
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 351,
+            "y": 83,
+            "width": 124,
+            "height": 33
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "019.jpg33297": {
+      "filename": "019.jpg",
+      "size": 33297,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 161,
+            "width": 122,
+            "height": 59
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 144,
+            "y": 176,
+            "width": 136,
+            "height": 67
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 347,
+            "y": 106,
+            "width": 130,
+            "height": 95
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "020.jpg30237": {
+      "filename": "020.jpg",
+      "size": 30237,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 10,
+            "y": 189,
+            "width": 69,
+            "height": 46
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 111,
+            "y": 179,
+            "width": 82,
+            "height": 40
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 239,
+            "y": 142,
+            "width": 60,
+            "height": 42
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 355,
+            "y": 90,
+            "width": 115,
+            "height": 31
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "021.jpg36111": {
+      "filename": "021.jpg",
+      "size": 36111,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 17,
+            "y": 38,
+            "width": 91,
+            "height": 75
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 137,
+            "y": 85,
+            "width": 64,
+            "height": 65
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 209,
+            "y": 181,
+            "width": 47,
+            "height": 101
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 299,
+            "y": 181,
+            "width": 141,
+            "height": 48
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "022.jpg28441": {
+      "filename": "022.jpg",
+      "size": 28441,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 113,
+            "y": 5,
+            "width": 34,
+            "height": 192
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 11,
+            "y": 209,
+            "width": 125,
+            "height": 24
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 163,
+            "y": 206,
+            "width": 308,
+            "height": 39
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "023.jpg29760": {
+      "filename": "023.jpg",
+      "size": 29760,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 21,
+            "y": 35,
+            "width": 59,
+            "height": 58
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 95,
+            "y": 90,
+            "width": 58,
+            "height": 59
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 179,
+            "y": 156,
+            "width": 66,
+            "height": 50
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 281,
+            "y": 166,
+            "width": 169,
+            "height": 24
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "024.jpg33570": {
+      "filename": "024.jpg",
+      "size": 33570,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 128,
+            "width": 143,
+            "height": 75
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 175,
+            "y": 146,
+            "width": 153,
+            "height": 59
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 343,
+            "y": 8,
+            "width": 35,
+            "height": 115
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "025.jpg25784": {
+      "filename": "025.jpg",
+      "size": 25784,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 51,
+            "y": 107,
+            "width": 111,
+            "height": 43
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 202,
+            "y": 132,
+            "width": 164,
+            "height": 44
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 395,
+            "y": 164,
+            "width": 80,
+            "height": 35
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "026.jpg30291": {
+      "filename": "026.jpg",
+      "size": 30291,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 103,
+            "width": 77,
+            "height": 62
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 97,
+            "y": 129,
+            "width": 123,
+            "height": 52
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 303,
+            "y": 130,
+            "width": 167,
+            "height": 45
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "027.jpg35614": {
+      "filename": "027.jpg",
+      "size": 35614,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 13,
+            "y": 126,
+            "width": 174,
+            "height": 37
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 218,
+            "y": 133,
+            "width": 240,
+            "height": 55
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "028.jpg31640": {
+      "filename": "028.jpg",
+      "size": 31640,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 19,
+            "y": 125,
+            "width": 109,
+            "height": 55
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 148,
+            "y": 141,
+            "width": 110,
+            "height": 40
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 305,
+            "y": 133,
+            "width": 153,
+            "height": 53
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "029.jpg32482": {
+      "filename": "029.jpg",
+      "size": 32482,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 14,
+            "y": 149,
+            "width": 105,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 140,
+            "y": 153,
+            "width": 89,
+            "height": 37
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 278,
+            "y": 145,
+            "width": 82,
+            "height": 45
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 391,
+            "y": 137,
+            "width": 81,
+            "height": 32
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "030.jpg33734": {
+      "filename": "030.jpg",
+      "size": 33734,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 5,
+            "y": 152,
+            "width": 66,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 107,
+            "y": 144,
+            "width": 83,
+            "height": 31
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 228,
+            "y": 156,
+            "width": 87,
+            "height": 36
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 157,
+            "width": 128,
+            "height": 27
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "031.jpg33615": {
+      "filename": "031.jpg",
+      "size": 33615,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 126,
+            "y": 21,
+            "width": 36,
+            "height": 147
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 71,
+            "y": 219,
+            "width": 48,
+            "height": 60
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 148,
+            "y": 183,
+            "width": 100,
+            "height": 53
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 314,
+            "y": 169,
+            "width": 79,
+            "height": 43
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "032.jpg25903": {
+      "filename": "032.jpg",
+      "size": 25903,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 7,
+            "y": 181,
+            "width": 31,
+            "height": 69
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 58,
+            "y": 184,
+            "width": 74,
+            "height": 27
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 186,
+            "y": 3,
+            "width": 36,
+            "height": 117
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 151,
+            "y": 140,
+            "width": 39,
+            "height": 39
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 178,
+            "y": 201,
+            "width": 51,
+            "height": 64
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 380,
+            "y": 221,
+            "width": 78,
+            "height": 49
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "033.jpg26568": {
+      "filename": "033.jpg",
+      "size": 26568,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 29,
+            "y": 103,
+            "width": 124,
+            "height": 63
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 238,
+            "y": 91,
+            "width": 146,
+            "height": 37
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 418,
+            "y": 146,
+            "width": 52,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "034.jpg25255": {
+      "filename": "034.jpg",
+      "size": 25255,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 16,
+            "y": 53,
+            "width": 22,
+            "height": 99
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 20,
+            "y": 198,
+            "width": 82,
+            "height": 38
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 138,
+            "y": 117,
+            "width": 65,
+            "height": 77
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 244,
+            "y": 114,
+            "width": 94,
+            "height": 74
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 394,
+            "y": 91,
+            "width": 68,
+            "height": 80
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "035.jpg38985": {
+      "filename": "035.jpg",
+      "size": 38985,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 13,
+            "y": 58,
+            "width": 195,
+            "height": 106
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 30,
+            "y": 209,
+            "width": 142,
+            "height": 74
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 259,
+            "y": 92,
+            "width": 191,
+            "height": 91
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 241,
+            "y": 232,
+            "width": 213,
+            "height": 74
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "036.jpg25394": {
+      "filename": "036.jpg",
+      "size": 25394,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 29,
+            "y": 43,
+            "width": 159,
+            "height": 64
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 7,
+            "y": 125,
+            "width": 118,
+            "height": 54
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 10,
+            "y": 197,
+            "width": 158,
+            "height": 71
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 287,
+            "y": 40,
+            "width": 178,
+            "height": 55
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "037.jpg23712": {
+      "filename": "037.jpg",
+      "size": 23712,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 35,
+            "y": 6,
+            "width": 30,
+            "height": 118
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 20,
+            "y": 146,
+            "width": 81,
+            "height": 82
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 137,
+            "y": 224,
+            "width": 209,
+            "height": 82
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "038.jpg24194": {
+      "filename": "038.jpg",
+      "size": 24194,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 28,
+            "y": 94,
+            "width": 122,
+            "height": 54
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 188,
+            "y": 109,
+            "width": 105,
+            "height": 43
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 321,
+            "y": 114,
+            "width": 156,
+            "height": 71
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "039.jpg27501": {
+      "filename": "039.jpg",
+      "size": 27501,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 140,
+            "width": 171,
+            "height": 50
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 233,
+            "y": 151,
+            "width": 224,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "040.jpg23891": {
+      "filename": "040.jpg",
+      "size": 23891,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 27,
+            "y": 165,
+            "width": 183,
+            "height": 35
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 256,
+            "y": 150,
+            "width": 212,
+            "height": 49
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "041.jpg28182": {
+      "filename": "041.jpg",
+      "size": 28182,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 31,
+            "y": 116,
+            "width": 167,
+            "height": 63
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 243,
+            "y": 138,
+            "width": 193,
+            "height": 47
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "042.jpg25251": {
+      "filename": "042.jpg",
+      "size": 25251,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 317,
+            "y": 105,
+            "width": 135,
+            "height": 71
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "043.jpg24147": {
+      "filename": "043.jpg",
+      "size": 24147,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 79,
+            "y": 102,
+            "width": 86,
+            "height": 78
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 224,
+            "y": 139,
+            "width": 118,
+            "height": 53
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 379,
+            "y": 128,
+            "width": 39,
+            "height": 57
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "044.jpg27588": {
+      "filename": "044.jpg",
+      "size": 27588,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 22,
+            "y": 149,
+            "width": 102,
+            "height": 67
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 175,
+            "y": 118,
+            "width": 252,
+            "height": 58
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "045.jpg26541": {
+      "filename": "045.jpg",
+      "size": 26541,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 31,
+            "y": 151,
+            "width": 190,
+            "height": 51
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 393,
+            "y": 32,
+            "width": 67,
+            "height": 160
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "046.jpg25937": {
+      "filename": "046.jpg",
+      "size": 25937,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 10,
+            "y": 146,
+            "width": 73,
+            "height": 78
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 128,
+            "y": 112,
+            "width": 91,
+            "height": 84
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 298,
+            "y": 131,
+            "width": 160,
+            "height": 35
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "047.jpg22797": {
+      "filename": "047.jpg",
+      "size": 22797,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 356,
+            "y": 3,
+            "width": 47,
+            "height": 180
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 78,
+            "y": 161,
+            "width": 185,
+            "height": 38
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "048.jpg33220": {
+      "filename": "048.jpg",
+      "size": 33220,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 109,
+            "y": 159,
+            "width": 176,
+            "height": 37
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 319,
+            "y": 148,
+            "width": 110,
+            "height": 36
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "049.jpg25345": {
+      "filename": "049.jpg",
+      "size": 25345,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 172,
+            "y": 129,
+            "width": 112,
+            "height": 52
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "050.jpg30912": {
+      "filename": "050.jpg",
+      "size": 30912,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 143,
+            "y": 156,
+            "width": 208,
+            "height": 43
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 381,
+            "y": 131,
+            "width": 83,
+            "height": 46
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 69,
+            "y": 194,
+            "width": 40,
+            "height": 101
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 6,
+            "y": 148,
+            "width": 77,
+            "height": 32
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010033.JPG1978549": {
+      "filename": "G0010033.JPG",
+      "size": 1978549,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1453,
+            "y": 1398,
+            "width": 120,
+            "height": 106
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1112,
+            "y": 1422,
+            "width": 87,
+            "height": 68
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 909,
+            "y": 1408,
+            "width": 95,
+            "height": 74
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 576,
+            "y": 1404,
+            "width": 128,
+            "height": 66
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 315,
+            "y": 1414,
+            "width": 118,
+            "height": 66
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010034.JPG2318953": {
+      "filename": "G0010034.JPG",
+      "size": 2318953,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1787,
+            "y": 1378,
+            "width": 225,
+            "height": 90
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1169,
+            "y": 1466,
+            "width": 145,
+            "height": 72
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 530,
+            "y": 1466,
+            "width": 159,
+            "height": 82
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 773,
+            "y": 1480,
+            "width": 80,
+            "height": 54
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010035.JPG1944151": {
+      "filename": "G0010035.JPG",
+      "size": 1944151,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 833,
+            "y": 1510,
+            "width": 147,
+            "height": 92
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1599,
+            "y": 1416,
+            "width": 245,
+            "height": 125
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 349,
+            "y": 1562,
+            "width": 143,
+            "height": 64
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010036.JPG1983371": {
+      "filename": "G0010036.JPG",
+      "size": 1983371,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 329,
+            "y": 1602,
+            "width": 177,
+            "height": 145
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1325,
+            "y": 1470,
+            "width": 351,
+            "height": 152
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010037.JPG2010418": {
+      "filename": "G0010037.JPG",
+      "size": 2010418,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 853,
+            "y": 1577,
+            "width": 412,
+            "height": 159
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1441,
+            "y": 1617,
+            "width": 139,
+            "height": 113
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010109.JPG2098339": {
+      "filename": "G0010109.JPG",
+      "size": 2098339,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2537,
+            "y": 1626,
+            "width": 456,
+            "height": 87
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1925,
+            "y": 1295,
+            "width": 80,
+            "height": 112
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010110.JPG2104842": {
+      "filename": "G0010110.JPG",
+      "size": 2104842,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1920,
+            "y": 1330,
+            "width": 164,
+            "height": 111
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010111.JPG2158239": {
+      "filename": "G0010111.JPG",
+      "size": 2158239,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1912,
+            "y": 1409,
+            "width": 200,
+            "height": 106
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2250,
+            "y": 1564,
+            "width": 197,
+            "height": 123
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1876,
+            "y": 1328,
+            "width": 87,
+            "height": 123
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010112.JPG2275092": {
+      "filename": "G0010112.JPG",
+      "size": 2275092,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1809,
+            "y": 1340,
+            "width": 150,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1891,
+            "y": 1533,
+            "width": 382,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010113.JPG1975422": {
+      "filename": "G0010113.JPG",
+      "size": 1975422,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1765,
+            "y": 1499,
+            "width": 155,
+            "height": 140
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1973,
+            "y": 1340,
+            "width": 87,
+            "height": 174
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2150,
+            "y": 1351,
+            "width": 74,
+            "height": 103
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010114.JPG1993733": {
+      "filename": "G0010114.JPG",
+      "size": 1993733,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1686,
+            "y": 1713,
+            "width": 232,
+            "height": 93
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1789,
+            "y": 1524,
+            "width": 159,
+            "height": 113
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2008,
+            "y": 1444,
+            "width": 73,
+            "height": 113
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2201,
+            "y": 1354,
+            "width": 113,
+            "height": 120
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010115.JPG2139625": {
+      "filename": "G0010115.JPG",
+      "size": 2139625,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2292,
+            "y": 1431,
+            "width": 193,
+            "height": 131
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1886,
+            "y": 1634,
+            "width": 368,
+            "height": 135
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1925,
+            "y": 1291,
+            "width": 300,
+            "height": 145
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010116.JPG2328258": {
+      "filename": "G0010116.JPG",
+      "size": 2328258,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2553,
+            "y": 1601,
+            "width": 295,
+            "height": 155
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2191,
+            "y": 1451,
+            "width": 213,
+            "height": 198
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1939,
+            "y": 1431,
+            "width": 126,
+            "height": 121
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010117.JPG2325706": {
+      "filename": "G0010117.JPG",
+      "size": 2325706,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1958,
+            "y": 1538,
+            "width": 131,
+            "height": 179
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2113,
+            "y": 1412,
+            "width": 131,
+            "height": 111
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2292,
+            "y": 1383,
+            "width": 145,
+            "height": 164
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010118.JPG2020992": {
+      "filename": "G0010118.JPG",
+      "size": 2020992,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1828,
+            "y": 1378,
+            "width": 155,
+            "height": 111
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2050,
+            "y": 1480,
+            "width": 174,
+            "height": 126
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2292,
+            "y": 1441,
+            "width": 232,
+            "height": 232
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010119.JPG2071430": {
+      "filename": "G0010119.JPG",
+      "size": 2071430,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1736,
+            "y": 1422,
+            "width": 126,
+            "height": 208
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2307,
+            "y": 1581,
+            "width": 290,
+            "height": 179
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1934,
+            "y": 1678,
+            "width": 329,
+            "height": 135
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010120.JPG2113881": {
+      "filename": "G0010120.JPG",
+      "size": 2113881,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1576,
+            "y": 1601,
+            "width": 237,
+            "height": 193
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1968,
+            "y": 1509,
+            "width": 121,
+            "height": 189
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010121.JPG2134680": {
+      "filename": "G0010121.JPG",
+      "size": 2134680,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2070,
+            "y": 1634,
+            "width": 203,
+            "height": 131
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010122.JPG1990296": {
+      "filename": "G0010122.JPG",
+      "size": 1990296,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1963,
+            "y": 1302,
+            "width": 64,
+            "height": 155
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1889,
+            "y": 1570,
+            "width": 129,
+            "height": 100
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010123.JPG1995402": {
+      "filename": "G0010123.JPG",
+      "size": 1995402,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1916,
+            "y": 1374,
+            "width": 93,
+            "height": 123
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010124.JPG2023971": {
+      "filename": "G0010124.JPG",
+      "size": 2023971,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1842,
+            "y": 1330,
+            "width": 164,
+            "height": 378
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010125.JPG2057033": {
+      "filename": "G0010125.JPG",
+      "size": 2057033,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1789,
+            "y": 1547,
+            "width": 150,
+            "height": 218
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1828,
+            "y": 1335,
+            "width": 131,
+            "height": 140
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010126.JPG2087963": {
+      "filename": "G0010126.JPG",
+      "size": 2087963,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1804,
+            "y": 1383,
+            "width": 174,
+            "height": 160
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010127.JPG2101781": {
+      "filename": "G0010127.JPG",
+      "size": 2101781,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1780,
+            "y": 1470,
+            "width": 203,
+            "height": 179
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0010128.JPG1987132": {
+      "filename": "G0010128.JPG",
+      "size": 1987132,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1789,
+            "y": 1630,
+            "width": 160,
+            "height": 208
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011661.JPG2215416": {
+      "filename": "G0011661.JPG",
+      "size": 2215416,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2044,
+            "y": 1409,
+            "width": 174,
+            "height": 126
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011662.JPG2183531": {
+      "filename": "G0011662.JPG",
+      "size": 2183531,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2148,
+            "y": 1484,
+            "width": 229,
+            "height": 203
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011664.JPG2227652": {
+      "filename": "G0011664.JPG",
+      "size": 2227652,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2200,
+            "y": 1523,
+            "width": 242,
+            "height": 164
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011677.JPG2303994": {
+      "filename": "G0011677.JPG",
+      "size": 2303994,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1997,
+            "y": 1364,
+            "width": 179,
+            "height": 184
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011678.JPG2346037": {
+      "filename": "G0011678.JPG",
+      "size": 2346037,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2089,
+            "y": 1485,
+            "width": 169,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011705.JPG2159500": {
+      "filename": "G0011705.JPG",
+      "size": 2159500,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1518,
+            "y": 1528,
+            "width": 73,
+            "height": 198
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1835,
+            "y": 1499,
+            "width": 193,
+            "height": 102
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1777,
+            "y": 1688,
+            "width": 319,
+            "height": 126
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011769.JPG2174401": {
+      "filename": "G0011769.JPG",
+      "size": 2174401,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1369,
+            "y": 1618,
+            "width": 284,
+            "height": 169
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1916,
+            "y": 1404,
+            "width": 149,
+            "height": 80
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011969.JPG2279968": {
+      "filename": "G0011969.JPG",
+      "size": 2279968,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2171,
+            "y": 1533,
+            "width": 464,
+            "height": 242
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011970.JPG2126629": {
+      "filename": "G0011970.JPG",
+      "size": 2126629,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2292,
+            "y": 1509,
+            "width": 135,
+            "height": 131
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1891,
+            "y": 1586,
+            "width": 106,
+            "height": 68
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011978.JPG2121321": {
+      "filename": "G0011978.JPG",
+      "size": 2121321,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2210,
+            "y": 1514,
+            "width": 232,
+            "height": 232
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2998,
+            "y": 1586,
+            "width": 203,
+            "height": 160
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011981.JPG2077787": {
+      "filename": "G0011981.JPG",
+      "size": 2077787,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1576,
+            "y": 1460,
+            "width": 160,
+            "height": 121
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2297,
+            "y": 1552,
+            "width": 247,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011982.JPG2270896": {
+      "filename": "G0011982.JPG",
+      "size": 2270896,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1441,
+            "y": 1509,
+            "width": 193,
+            "height": 266
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011986.JPG2154141": {
+      "filename": "G0011986.JPG",
+      "size": 2154141,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3011,
+            "y": 1473,
+            "width": 297,
+            "height": 113
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1963,
+            "y": 1399,
+            "width": 97,
+            "height": 64
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011988.JPG2134459": {
+      "filename": "G0011988.JPG",
+      "size": 2134459,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2075,
+            "y": 1480,
+            "width": 150,
+            "height": 203
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2669,
+            "y": 1470,
+            "width": 392,
+            "height": 145
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0011989.JPG2170321": {
+      "filename": "G0011989.JPG",
+      "size": 2170321,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2297,
+            "y": 1717,
+            "width": 218,
+            "height": 116
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 3076,
+            "y": 1562,
+            "width": 464,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0012011.JPG2201605": {
+      "filename": "G0012011.JPG",
+      "size": 2201605,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1842,
+            "y": 1373,
+            "width": 164,
+            "height": 106
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2399,
+            "y": 1441,
+            "width": 121,
+            "height": 155
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0012012.JPG2180042": {
+      "filename": "G0012012.JPG",
+      "size": 2180042,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1857,
+            "y": 1436,
+            "width": 174,
+            "height": 140
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0012022.JPG2250667": {
+      "filename": "G0012022.JPG",
+      "size": 2250667,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1876,
+            "y": 1393,
+            "width": 164,
+            "height": 145
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0012023.JPG2140180": {
+      "filename": "G0012023.JPG",
+      "size": 2140180,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1833,
+            "y": 1518,
+            "width": 271,
+            "height": 189
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0016156.JPG2156339": {
+      "filename": "G0016156.JPG",
+      "size": 2156339,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2785,
+            "y": 1538,
+            "width": 280,
+            "height": 203
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2210,
+            "y": 1349,
+            "width": 169,
+            "height": 150
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0016157.JPG2213773": {
+      "filename": "G0016157.JPG",
+      "size": 2213773,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2408,
+            "y": 1465,
+            "width": 237,
+            "height": 126
+          },
+          "region_attributes": {
+            "Class": "crack"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0016237.JPG2089754": {
+      "filename": "G0016237.JPG",
+      "size": 2089754,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1591,
+            "y": 1456,
+            "width": 126,
+            "height": 189
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0016238.JPG2170488": {
+      "filename": "G0016238.JPG",
+      "size": 2170488,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1557,
+            "y": 1422,
+            "width": 247,
+            "height": 160
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    },
+    "G0016241.JPG2165985": {
+      "filename": "G0016241.JPG",
+      "size": 2165985,
+      "regions": [],
+      "file_attributes": {}
+    },
+    "G0016242.JPG2260220": {
+      "filename": "G0016242.JPG",
+      "size": 2260220,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1967,
+            "y": 1277,
+            "width": 106,
+            "height": 69
+          },
+          "region_attributes": {
+            "Class": "pothole"
+          }
+        }
+      ],
+      "file_attributes": {}
+    }
+  },
+  "_via_attributes": {
+    "region": {
+      "Class": {
+        "type": "text",
+        "description": "",
+        "default_value": ""
+      }
+    },
+    "file": {}
+  }
+}
