@@ -110,7 +110,7 @@ class Pot_crackDataset(utils.Dataset):
         #           'region_attributes': {name:'a'},
         #           'shape_attributes': {
         #               'all_points_x': [...],
-        #               'all_points_y': [...],
+        #               'y': [...],
         #               'name': 'polygon'}},
         #       ... more regions ...
         #   },
@@ -166,7 +166,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['all_points_y'], p['all_points_x'])
+            rr, cc = skimage.draw.polygon(p['y'], p['x'])
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
@@ -212,7 +212,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['all_points_y'], p['all_points_x'])
+            rr, cc = skimage.draw.polygon(p['y'], p['x'])
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
