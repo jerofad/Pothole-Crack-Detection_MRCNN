@@ -90,7 +90,7 @@ class Pot_crackDataset(utils.Dataset):
         dataset_dir: Root directory of the dataset.
         subset: Subset to load: train or val or predict
         """
-        # Add classes. We have only one class to add.
+        # Add classes. We have two class to add.
         self.add_class("pot_crack", 1, "pothole")
         self.add_class("pot_crack", 2, "crack")
         if hc is True:
@@ -166,7 +166,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['y'], p['x'])
+            rr, cc = skimage.draw.polygon(p['all_points_y'], p['all_points_x'])
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
@@ -212,7 +212,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['y'], p['x'])
+            rr, cc = skimage.draw.polygon(p['all_points_y'], p['all_points_x'])
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
