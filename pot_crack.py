@@ -173,9 +173,9 @@ class Pot_crackDataset(utils.Dataset):
         # In the pot_crack dataset, pictures are labeled with name 'a' and 'r' representing arm and ring.
         for i, p in enumerate(class_names):
             # "name" is the attributes name decided when labeling, etc. 'region_attributes': {name:'a'}
-            if p['name'] == 'a':
+            if p['class'] == 'pothole':
                 class_ids[i] = 1
-            elif p['name'] == 'r':
+            elif p['name'] == 'crack':
                 class_ids[i] = 2
                 # assert code here to extend to other labels
         class_ids = class_ids.astype(int)
@@ -216,14 +216,14 @@ class Pot_crackDataset(utils.Dataset):
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
-        # In the pot_crack dataset, pictures are labeled with name 'a' and 'r' representing arm and ring.
+        # In the pot_crack dataset, pictures are labeled with name 'pothole' and 'crack'.
         for i, p in enumerate(class_names):
             if p['class'] == 'pothole':
                 class_ids[i] = 14
             elif p['class'] == 'error':
                 pass
             else:
-                class_ids[i] = int(p['name'])
+                class_ids[i] = int(p['class'])
                 # assert code here to extend to other labels
         class_ids = class_ids.astype(int)
         # Return mask, and array of class IDs of each instance. Since we have
