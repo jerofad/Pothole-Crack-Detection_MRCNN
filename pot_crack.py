@@ -166,7 +166,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['y'], p['x'])
+            rr, cc = np.zeros(skimage.draw.polygon(p['y'], p['x']))
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
@@ -212,7 +212,7 @@ class Pot_crackDataset(utils.Dataset):
                         dtype=np.uint8)
         for i, p in enumerate(info["polygons"]):
             # Get indexes of pixels inside the polygon and set them to 1
-            rr, cc = skimage.draw.polygon(p['y'], p['x'])
+            rr, cc = np.zeros(skimage.draw.polygon(p['y'], p['x']))
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
