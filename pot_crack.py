@@ -175,7 +175,7 @@ class Pot_crackDataset(utils.Dataset):
             # "name" is the attributes name decided when labeling, etc. 'region_attributes': {name:'a'}
             if p['class'] == 'pothole':
                 class_ids[i] = 1
-            elif p['name'] == 'crack':
+            elif p['class'] == 'crack':
                 class_ids[i] = 2
                 # assert code here to extend to other labels
         class_ids = class_ids.astype(int)
