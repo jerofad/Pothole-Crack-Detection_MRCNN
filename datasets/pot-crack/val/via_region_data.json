@@ -5,38 +5,34 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 9,
-          "y": 148,
-          "width": 120,
-          "height": 44
+          "name": "polygon",
+          "all_points_x": [
+            15,
+            82,
+            148,
+            218,
+            389,
+            467,
+            468,
+            159,
+            66,
+            16
+          ],
+          "all_points_y": [
+            136,
+            140,
+            131,
+            124,
+            140,
+            139,
+            173,
+            175,
+            178,
+            176
+          ]
         },
         "region_attributes": {
-          "Class": "Crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 176,
-          "y": 127,
-          "width": 126,
-          "height": 37
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 345,
-          "y": 129,
-          "width": 122,
-          "height": 59
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -48,26 +44,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 43,
-          "y": 136,
-          "width": 84,
-          "height": 44
+          "name": "polygon",
+          "all_points_x": [
+            71,
+            142,
+            207,
+            230,
+            307,
+            397,
+            358,
+            76,
+            70,
+            31,
+            6,
+            9
+          ],
+          "all_points_y": [
+            149,
+            124,
+            124,
+            155,
+            156,
+            156,
+            186,
+            182,
+            222,
+            237,
+            233,
+            233
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 288,
-          "y": 146,
-          "width": 124,
-          "height": 42
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -79,26 +87,30 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 34,
-          "y": 155,
-          "width": 159,
-          "height": 21
+          "name": "polygon",
+          "all_points_x": [
+            13,
+            113,
+            238,
+            373,
+            472,
+            472,
+            6,
+            5
+          ],
+          "all_points_y": [
+            159,
+            153,
+            138,
+            120,
+            114,
+            140,
+            194,
+            193
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 231,
-          "y": 131,
-          "width": 217,
-          "height": 35
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -110,38 +122,32 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 35,
-          "y": 114,
-          "width": 126,
-          "height": 52
+          "name": "polygon",
+          "all_points_x": [
+            8,
+            77,
+            131,
+            219,
+            351,
+            472,
+            479,
+            200,
+            8
+          ],
+          "all_points_y": [
+            125,
+            103,
+            123,
+            123,
+            129,
+            111,
+            176,
+            166,
+            165
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 212,
-          "y": 120,
-          "width": 111,
-          "height": 49
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 373,
-          "y": 113,
-          "width": 102,
-          "height": 53
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -153,38 +159,30 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 14,
-          "y": 127,
-          "width": 116,
-          "height": 52
+          "name": "polygon",
+          "all_points_x": [
+            8,
+            151,
+            270,
+            369,
+            471,
+            471,
+            190,
+            4
+          ],
+          "all_points_y": [
+            139,
+            124,
+            151,
+            151,
+            147,
+            186,
+            179,
+            178
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 183,
-          "y": 132,
-          "width": 89,
-          "height": 52
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 345,
-          "y": 147,
-          "width": 105,
-          "height": 45
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -196,14 +194,28 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 38,
-          "y": 149,
-          "width": 135,
-          "height": 31
+          "name": "polygon",
+          "all_points_x": [
+            24,
+            154,
+            224,
+            274,
+            337,
+            343,
+            11
+          ],
+          "all_points_y": [
+            158,
+            145,
+            125,
+            133,
+            120,
+            148,
+            192
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -215,14 +227,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 58,
-          "y": 23,
-          "width": 74,
-          "height": 91
+          "name": "polygon",
+          "all_points_x": [
+            50,
+            116,
+            128,
+            156,
+            228,
+            269,
+            276,
+            377,
+            428,
+            358,
+            67,
+            64
+          ],
+          "all_points_y": [
+            8,
+            33,
+            79,
+            134,
+            143,
+            181,
+            218,
+            254,
+            308,
+            291,
+            99,
+            97
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "crackn"
         }
       }
     ],
@@ -234,26 +270,58 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 60,
-          "y": 108,
-          "width": 85,
-          "height": 43
+          "name": "polygon",
+          "all_points_x": [
+            8,
+            85,
+            147,
+            219,
+            264,
+            285,
+            6
+          ],
+          "all_points_y": [
+            106,
+            106,
+            113,
+            119,
+            131,
+            150,
+            144
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 342,
-          "y": 158,
-          "width": 80,
-          "height": 42
+          "name": "polygon",
+          "all_points_x": [
+            266,
+            304,
+            359,
+            424,
+            474,
+            470,
+            426,
+            357,
+            270
+          ],
+          "all_points_y": [
+            183,
+            195,
+            160,
+            146,
+            156,
+            194,
+            173,
+            214,
+            228
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -265,26 +333,32 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 133,
-          "y": 125,
-          "width": 132,
-          "height": 51
+          "name": "polygon",
+          "all_points_x": [
+            30,
+            92,
+            187,
+            301,
+            379,
+            466,
+            472,
+            217,
+            10
+          ],
+          "all_points_y": [
+            105,
+            121,
+            130,
+            126,
+            112,
+            126,
+            157,
+            169,
+            151
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 312,
-          "y": 104,
-          "width": 150,
-          "height": 43
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -296,38 +370,66 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 76,
-          "y": 45,
-          "width": 38,
-          "height": 124
+          "name": "polygon",
+          "all_points_x": [
+            43,
+            71,
+            67,
+            79,
+            90,
+            62,
+            59,
+            94,
+            125,
+            104,
+            115,
+            119,
+            83
+          ],
+          "all_points_y": [
+            3,
+            55,
+            92,
+            165,
+            223,
+            253,
+            303,
+            301,
+            202,
+            121,
+            79,
+            36,
+            8
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 247,
-          "y": 22,
-          "width": 75,
-          "height": 80
+          "name": "polygon",
+          "all_points_x": [
+            226,
+            280,
+            311,
+            377,
+            460,
+            466,
+            312
+          ],
+          "all_points_y": [
+            10,
+            75,
+            108,
+            145,
+            150,
+            119,
+            44
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 364,
-          "y": 100,
-          "width": 67,
-          "height": 50
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -339,38 +441,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 39,
-          "y": 132,
-          "width": 122,
-          "height": 36
+          "name": "polygon",
+          "all_points_x": [
+            10,
+            140,
+            252,
+            308,
+            349,
+            394,
+            452,
+            470,
+            429,
+            364,
+            257,
+            12
+          ],
+          "all_points_y": [
+            125,
+            136,
+            146,
+            143,
+            78,
+            56,
+            0,
+            20,
+            108,
+            157,
+            192,
+            171
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 262,
-          "y": 126,
-          "width": 61,
-          "height": 73
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 366,
-          "y": 51,
-          "width": 74,
-          "height": 39
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -382,38 +484,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 29,
-          "y": 135,
-          "width": 103,
-          "height": 52
+          "name": "polygon",
+          "all_points_x": [
+            4,
+            71,
+            120,
+            206,
+            259,
+            306,
+            468,
+            475,
+            228,
+            231,
+            137,
+            14
+          ],
+          "all_points_y": [
+            112,
+            152,
+            126,
+            112,
+            113,
+            156,
+            189,
+            219,
+            175,
+            144,
+            180,
+            187
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 178,
-          "y": 109,
-          "width": 92,
-          "height": 43
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 325,
-          "y": 160,
-          "width": 148,
-          "height": 52
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -425,38 +527,46 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 151,
-          "y": 76,
-          "width": 43,
-          "height": 82
+          "name": "polygon",
+          "all_points_x": [
+            56,
+            88,
+            145,
+            124,
+            148,
+            179,
+            232,
+            327,
+            363,
+            459,
+            464,
+            372,
+            274,
+            180,
+            126,
+            102
+          ],
+          "all_points_y": [
+            224,
+            166,
+            142,
+            55,
+            41,
+            95,
+            125,
+            116,
+            77,
+            48,
+            78,
+            137,
+            149,
+            163,
+            212,
+            308
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 262,
-          "y": 116,
-          "width": 83,
-          "height": 32
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 382,
-          "y": 61,
-          "width": 80,
-          "height": 33
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -468,38 +578,36 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 63,
-          "y": 101,
-          "width": 91,
-          "height": 49
+          "name": "polygon",
+          "all_points_x": [
+            5,
+            58,
+            79,
+            130,
+            232,
+            329,
+            467,
+            468,
+            216,
+            112,
+            8
+          ],
+          "all_points_y": [
+            67,
+            94,
+            113,
+            110,
+            140,
+            175,
+            199,
+            231,
+            197,
+            149,
+            189
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 182,
-          "y": 128,
-          "width": 103,
-          "height": 69
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 312,
-          "y": 172,
-          "width": 147,
-          "height": 49
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -511,62 +619,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 89,
-          "y": 25,
-          "width": 74,
-          "height": 71
+          "name": "polygon",
+          "all_points_x": [
+            95,
+            122,
+            165,
+            175,
+            180,
+            211,
+            206,
+            476,
+            471,
+            290,
+            272,
+            131
+          ],
+          "all_points_y": [
+            12,
+            90,
+            131,
+            188,
+            299,
+            304,
+            204,
+            193,
+            148,
+            129,
+            170,
+            9
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 152,
-          "y": 128,
-          "width": 58,
-          "height": 76
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 160,
-          "y": 227,
-          "width": 43,
-          "height": 73
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 236,
-          "y": 170,
-          "width": 131,
-          "height": 33
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 387,
-          "y": 138,
-          "width": 70,
-          "height": 41
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -578,38 +662,42 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 25,
-          "y": 130,
-          "width": 161,
-          "height": 57
+          "name": "polygon",
+          "all_points_x": [
+            11,
+            104,
+            179,
+            269,
+            366,
+            384,
+            404,
+            400,
+            394,
+            394,
+            373,
+            355,
+            228,
+            4
+          ],
+          "all_points_y": [
+            119,
+            133,
+            159,
+            144,
+            141,
+            16,
+            13,
+            142,
+            218,
+            307,
+            306,
+            270,
+            204,
+            160
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 238,
-          "y": 149,
-          "width": 129,
-          "height": 91
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 374,
-          "y": 34,
-          "width": 26,
-          "height": 98
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -621,26 +709,34 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 110,
-          "y": 126,
-          "width": 181,
-          "height": 46
+          "name": "polygon",
+          "all_points_x": [
+            8,
+            112,
+            190,
+            336,
+            476,
+            473,
+            290,
+            153,
+            64,
+            22
+          ],
+          "all_points_y": [
+            116,
+            133,
+            115,
+            122,
+            130,
+            180,
+            163,
+            159,
+            185,
+            167
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 326,
-          "y": 112,
-          "width": 151,
-          "height": 66
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -652,26 +748,36 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 111,
-          "y": 79,
-          "width": 107,
-          "height": 70
+          "name": "polygon",
+          "all_points_x": [
+            42,
+            82,
+            109,
+            87,
+            49,
+            152,
+            369,
+            443,
+            382,
+            268,
+            166
+          ],
+          "all_points_y": [
+            6,
+            78,
+            120,
+            212,
+            275,
+            145,
+            182,
+            171,
+            71,
+            105,
+            106
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 267,
-          "y": 121,
-          "width": 75,
-          "height": 48
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -683,38 +789,32 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 44,
-          "y": 118,
-          "width": 110,
-          "height": 64
+          "name": "polygon",
+          "all_points_x": [
+            5,
+            82,
+            200,
+            318,
+            376,
+            478,
+            477,
+            256,
+            17
+          ],
+          "all_points_y": [
+            75,
+            126,
+            163,
+            186,
+            212,
+            228,
+            257,
+            240,
+            161
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 187,
-          "y": 160,
-          "width": 124,
-          "height": 50
-        },
-        "region_attributes": {
-          "Class": "crack\n"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 355,
-          "y": 202,
-          "width": 97,
-          "height": 53
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -726,26 +826,32 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 119,
-          "y": 149,
-          "width": 76,
-          "height": 67
+          "name": "polygon",
+          "all_points_x": [
+            8,
+            209,
+            254,
+            372,
+            467,
+            466,
+            286,
+            198,
+            9
+          ],
+          "all_points_y": [
+            145,
+            187,
+            149,
+            162,
+            192,
+            226,
+            185,
+            218,
+            193
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 283,
-          "y": 148,
-          "width": 139,
-          "height": 53
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -757,26 +863,38 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 193,
-          "y": 142,
-          "width": 116,
-          "height": 41
+          "name": "polygon",
+          "all_points_x": [
+            10,
+            102,
+            158,
+            198,
+            286,
+            346,
+            415,
+            472,
+            466,
+            278,
+            141,
+            27
+          ],
+          "all_points_y": [
+            172,
+            130,
+            97,
+            130,
+            143,
+            152,
+            155,
+            186,
+            211,
+            181,
+            171,
+            251
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 339,
-          "y": 148,
-          "width": 115,
-          "height": 57
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -788,50 +906,32 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 130,
-          "y": 257,
-          "width": 53,
-          "height": 51
+          "name": "polygon",
+          "all_points_x": [
+            115,
+            251,
+            329,
+            361,
+            409,
+            427,
+            352,
+            275,
+            145
+          ],
+          "all_points_y": [
+            270,
+            164,
+            103,
+            34,
+            5,
+            17,
+            140,
+            207,
+            311
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 204,
-          "y": 174,
-          "width": 49,
-          "height": 55
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 271,
-          "y": 110,
-          "width": 73,
-          "height": 68
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 360,
-          "y": 27,
-          "width": 40,
-          "height": 61
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -843,50 +943,36 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 22,
-          "y": 200,
-          "width": 91,
-          "height": 47
+          "name": "polygon",
+          "all_points_x": [
+            6,
+            111,
+            183,
+            281,
+            379,
+            468,
+            468,
+            312,
+            195,
+            92,
+            16
+          ],
+          "all_points_y": [
+            207,
+            201,
+            152,
+            121,
+            112,
+            158,
+            186,
+            157,
+            203,
+            243,
+            244
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 143,
-          "y": 170,
-          "width": 53,
-          "height": 41
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 243,
-          "y": 118,
-          "width": 98,
-          "height": 30
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 398,
-          "y": 130,
-          "width": 73,
-          "height": 60
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -898,26 +984,44 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 120,
-          "y": 141,
-          "width": 116,
-          "height": 85
+          "name": "polygon",
+          "all_points_x": [
+            15,
+            79,
+            91,
+            12,
+            15,
+            109,
+            229,
+            256,
+            365,
+            475,
+            467,
+            320,
+            188,
+            86,
+            64
+          ],
+          "all_points_y": [
+            50,
+            87,
+            144,
+            179,
+            213,
+            185,
+            221,
+            277,
+            259,
+            242,
+            213,
+            223,
+            170,
+            57,
+            15
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 315,
-          "y": 221,
-          "width": 150,
-          "height": 30
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -929,50 +1033,48 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 93,
-          "y": 13,
-          "width": 39,
-          "height": 118
+          "name": "polygon",
+          "all_points_x": [
+            2,
+            47,
+            83,
+            108,
+            125,
+            120,
+            112,
+            185,
+            329,
+            380,
+            443,
+            460,
+            452,
+            394,
+            203,
+            41,
+            9
+          ],
+          "all_points_y": [
+            144,
+            140,
+            99,
+            4,
+            5,
+            86,
+            114,
+            131,
+            108,
+            44,
+            14,
+            8,
+            29,
+            128,
+            160,
+            177,
+            195
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 196,
-          "y": 121,
-          "width": 110,
-          "height": 24
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 361,
-          "y": 88,
-          "width": 60,
-          "height": 149
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 385,
-          "y": 19,
-          "width": 74,
-          "height": 27
-        },
-        "region_attributes": {
-          "Class": "crack"
+          "class": "crack"
         }
       }
     ],
@@ -984,14 +1086,44 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2152,
-          "y": 1489,
-          "width": 339,
-          "height": 189
+          "name": "polygon",
+          "all_points_x": [
+            2289,
+            2444,
+            2459,
+            2322
+          ],
+          "all_points_y": [
+            1541,
+            1538,
+            1604,
+            1628
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            2588,
+            2486,
+            2456,
+            2549,
+            2567
+          ],
+          "all_points_y": [
+            1747,
+            1723,
+            1759,
+            1804,
+            1777
+          ]
+        },
+        "region_attributes": {
+          "class": "pothole"
         }
       }
     ],
@@ -1003,26 +1135,42 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2249,
-          "y": 1518,
-          "width": 208,
-          "height": 222
+          "name": "polygon",
+          "all_points_x": [
+            2235,
+            2398,
+            2444,
+            2232
+          ],
+          "all_points_y": [
+            1554,
+            1579,
+            1628,
+            1671
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2984,
-          "y": 1576,
-          "width": 251,
-          "height": 184
+          "name": "polygon",
+          "all_points_x": [
+            3103,
+            3186,
+            3189,
+            2989
+          ],
+          "all_points_y": [
+            1622,
+            1656,
+            1711,
+            1748
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1034,26 +1182,62 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2336,
-          "y": 1543,
-          "width": 218,
-          "height": 169
+          "name": "polygon",
+          "all_points_x": [
+            1610,
+            1727,
+            1684,
+            1650
+          ],
+          "all_points_y": [
+            1459,
+            1484,
+            1542,
+            1542
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1630,
-          "y": 1431,
-          "width": 106,
-          "height": 169
+          "name": "polygon",
+          "all_points_x": [
+            2496,
+            2367,
+            2358,
+            2463
+          ],
+          "all_points_y": [
+            1573,
+            1573,
+            1671,
+            1644
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1579,
+            1419,
+            1502,
+            1564
+          ],
+          "all_points_y": [
+            1721,
+            1761,
+            1804,
+            1804
+          ]
+        },
+        "region_attributes": {
+          "class": "pothole"
         }
       }
     ],
@@ -1065,14 +1249,22 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1417,
-          "y": 1567,
-          "width": 222,
-          "height": 169
+          "name": "polygon",
+          "all_points_x": [
+            1465,
+            1668,
+            1573,
+            1471
+          ],
+          "all_points_y": [
+            1595,
+            1613,
+            1675,
+            1684
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1084,26 +1276,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 3001,
-          "y": 1457,
-          "width": 248,
-          "height": 123
+          "name": "polygon",
+          "all_points_x": [
+            3054,
+            3238,
+            3263,
+            3164,
+            3097
+          ],
+          "all_points_y": [
+            1398,
+            1496,
+            1582,
+            1601,
+            1588
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2392,
-          "y": 1377,
-          "width": 142,
-          "height": 87
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1115,26 +1305,48 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2088,
-          "y": 1520,
-          "width": 139,
-          "height": 133
+          "name": "polygon",
+          "all_points_x": [
+            2106,
+            2214,
+            2349,
+            2103,
+            2100
+          ],
+          "all_points_y": [
+            1532,
+            1532,
+            1652,
+            1607,
+            1595
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2696,
-          "y": 1497,
-          "width": 405,
-          "height": 133
+          "name": "polygon",
+          "all_points_x": [
+            2744,
+            2923,
+            2977,
+            3049,
+            3037,
+            2770
+          ],
+          "all_points_y": [
+            1499,
+            1499,
+            1502,
+            1568,
+            1619,
+            1580
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1146,26 +1358,64 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2297,
-          "y": 1649,
-          "width": 164,
-          "height": 184
+          "name": "polygon",
+          "all_points_x": [
+            2284,
+            2518,
+            2552,
+            2478,
+            2333
+          ],
+          "all_points_y": [
+            1681,
+            1745,
+            1801,
+            1828,
+            1825
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 3080,
-          "y": 1504,
-          "width": 503,
-          "height": 251
+          "name": "polygon",
+          "all_points_x": [
+            3112,
+            3198,
+            3198,
+            3155
+          ],
+          "all_points_y": [
+            1548,
+            1545,
+            1659,
+            1665
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1690,
+            1570,
+            1659,
+            1702
+          ],
+          "all_points_y": [
+            1514,
+            1595,
+            1598,
+            1598
+          ]
+        },
+        "region_attributes": {
+          "class": "pothole"
         }
       }
     ],
@@ -1177,14 +1427,46 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1842,
-          "y": 1383,
-          "width": 145,
-          "height": 121
+          "name": "polygon",
+          "all_points_x": [
+            2386,
+            2496,
+            2521,
+            2469,
+            2466
+          ],
+          "all_points_y": [
+            1465,
+            1462,
+            1548,
+            1554,
+            1554
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            1942,
+            1875,
+            1850,
+            1979,
+            1982
+          ],
+          "all_points_y": [
+            1385,
+            1394,
+            1493,
+            1471,
+            1471
+          ]
+        },
+        "region_attributes": {
+          "class": "pothole"
         }
       }
     ],
@@ -1196,26 +1478,46 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2872,
-          "y": 1630,
-          "width": 179,
-          "height": 155
+          "name": "polygon",
+          "all_points_x": [
+            1844,
+            2038,
+            2038,
+            1945,
+            1905
+          ],
+          "all_points_y": [
+            1462,
+            1468,
+            1558,
+            1573,
+            1558
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1852,
-          "y": 1456,
-          "width": 169,
-          "height": 160
+          "name": "polygon",
+          "all_points_x": [
+            2937,
+            3069,
+            3063,
+            2912,
+            2912
+          ],
+          "all_points_y": [
+            1659,
+            1727,
+            1810,
+            1813,
+            1804
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1227,14 +1529,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1838,
-          "y": 1349,
-          "width": 203,
-          "height": 203
+          "name": "polygon",
+          "all_points_x": [
+            1862,
+            1973,
+            2029,
+            2016,
+            1930
+          ],
+          "all_points_y": [
+            1422,
+            1413,
+            1453,
+            1527,
+            1524
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1246,14 +1558,26 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1833,
-          "y": 1485,
-          "width": 227,
-          "height": 203
+          "name": "polygon",
+          "all_points_x": [
+            1859,
+            2016,
+            2084,
+            2041,
+            2022,
+            1927
+          ],
+          "all_points_y": [
+            1530,
+            1521,
+            1561,
+            1675,
+            1678,
+            1650
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1265,26 +1589,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2805,
-          "y": 1567,
-          "width": 218,
-          "height": 155
+          "name": "polygon",
+          "all_points_x": [
+            2173,
+            2339,
+            2330,
+            2241,
+            2244
+          ],
+          "all_points_y": [
+            1361,
+            1364,
+            1438,
+            1468,
+            1474
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2186,
-          "y": 1325,
-          "width": 164,
-          "height": 160
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1296,26 +1618,26 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2476,
-          "y": 1456,
-          "width": 131,
-          "height": 116
+          "name": "polygon",
+          "all_points_x": [
+            2450,
+            2604,
+            2641,
+            2543,
+            2527,
+            2521
+          ],
+          "all_points_y": [
+            1481,
+            1478,
+            1554,
+            1582,
+            1567,
+            1564
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2829,
-          "y": 1581,
-          "width": 218,
-          "height": 189
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1327,26 +1649,22 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1572,
-          "y": 1451,
-          "width": 140,
-          "height": 150
+          "name": "polygon",
+          "all_points_x": [
+            1591,
+            1742,
+            1715,
+            1653
+          ],
+          "all_points_y": [
+            1490,
+            1502,
+            1595,
+            1591
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 1770,
-          "y": 1369,
-          "width": 131,
-          "height": 116
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1358,14 +1676,22 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1591,
-          "y": 1369,
-          "width": 164,
-          "height": 198
+          "name": "polygon",
+          "all_points_x": [
+            1631,
+            1748,
+            1736,
+            1659
+          ],
+          "all_points_y": [
+            1438,
+            1441,
+            1536,
+            1551
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1377,26 +1703,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1284,
-          "y": 1613,
-          "width": 97,
-          "height": 116
+          "name": "polygon",
+          "all_points_x": [
+            1214,
+            1297,
+            1341,
+            1413,
+            1323
+          ],
+          "all_points_y": [
+            1741,
+            1625,
+            1577,
+            1602,
+            1757
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2454,
-          "y": 1499,
-          "width": 174,
-          "height": 68
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "crack"
         }
       }
     ],
@@ -1405,20 +1729,7 @@
   "G0016242.JPG2260220": {
     "filename": "G0016242.JPG",
     "size": 2260220,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 1989,
-          "y": 1270,
-          "width": 85,
-          "height": 97
-        },
-        "region_attributes": {
-          "Class": "pothole"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   },
   "G0016243.JPG2141947": {
@@ -1427,14 +1738,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2002,
-          "y": 1307,
-          "width": 105,
-          "height": 90
+          "name": "polygon",
+          "all_points_x": [
+            2006,
+            2089,
+            2105,
+            2085,
+            2082
+          ],
+          "all_points_y": [
+            1313,
+            1313,
+            1358,
+            1393,
+            1396
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1446,38 +1767,22 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1920,
-          "y": 1462,
-          "width": 117,
-          "height": 105
+          "name": "polygon",
+          "all_points_x": [
+            2064,
+            2221,
+            2142,
+            2050
+          ],
+          "all_points_y": [
+            1321,
+            1390,
+            1459,
+            1418
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2037,
-          "y": 1638,
-          "width": 60,
-          "height": 124
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2079,
-          "y": 1325,
-          "width": 105,
-          "height": 137
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1489,50 +1794,42 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2271,
-          "y": 1539,
-          "width": 139,
-          "height": 139
+          "name": "polygon",
+          "all_points_x": [
+            1678,
+            2028,
+            2020,
+            1907
+          ],
+          "all_points_y": [
+            1526,
+            1616,
+            1705,
+            1728
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
+          "class": "pothole"
         }
       },
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2455,
-          "y": 1633,
-          "width": 102,
-          "height": 107
+          "name": "polygon",
+          "all_points_x": [
+            2275,
+            2356,
+            2253,
+            2163
+          ],
+          "all_points_y": [
+            1387,
+            1557,
+            1593,
+            1499
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 1865,
-          "y": 1681,
-          "width": 144,
-          "height": 77
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2166,
-          "y": 1434,
-          "width": 152,
-          "height": 82
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1544,26 +1841,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 1830,
-          "y": 1666,
-          "width": 174,
-          "height": 77
+          "name": "polygon",
+          "all_points_x": [
+            1987,
+            2169,
+            2241,
+            2193,
+            2079
+          ],
+          "all_points_y": [
+            1346,
+            1343,
+            1409,
+            1493,
+            1475
+          ]
         },
         "region_attributes": {
-          "Class": "crack"
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2033,
-          "y": 1361,
-          "width": 169,
-          "height": 106
-        },
-        "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1575,14 +1870,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2012,
-          "y": 1494,
-          "width": 430,
-          "height": 174
+          "name": "polygon",
+          "all_points_x": [
+            2244,
+            2386,
+            2478,
+            2401,
+            2303
+          ],
+          "all_points_y": [
+            1530,
+            1521,
+            1604,
+            1659,
+            1631
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1594,14 +1899,24 @@
     "regions": [
       {
         "shape_attributes": {
-          "name": "rect",
-          "x": 2553,
-          "y": 1381,
-          "width": 126,
-          "height": 97
+          "name": "polygon",
+          "all_points_x": [
+            2546,
+            2650,
+            2672,
+            2580,
+            2573
+          ],
+          "all_points_y": [
+            1376,
+            1398,
+            1444,
+            1478,
+            1478
+          ]
         },
         "region_attributes": {
-          "Class": "pothole"
+          "class": "pothole"
         }
       }
     ],
@@ -1610,20 +1925,7 @@
   "G0016499.JPG2269712": {
     "filename": "G0016499.JPG",
     "size": 2269712,
-    "regions": [
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 2032,
-          "y": 1354,
-          "width": 165,
-          "height": 133
-        },
-        "region_attributes": {
-          "Class": "crack"
-        }
-      }
-    ],
+    "regions": [],
     "file_attributes": {}
   }
 }
