@@ -96,7 +96,7 @@ class Pot_crackDataset(utils.Dataset):
         if hc is True:
             for i in range(1, 14):
                 self.add_class("pot_crack", i, "{}".format(i))
-            self.add_class("pot_crack", 14, "arm")
+            self.add_class("pot_crack", 14, "crack")
 
         # Train or validation dataset?
         assert subset in ["train", "val", "predict"]
@@ -170,7 +170,7 @@ class Pot_crackDataset(utils.Dataset):
             mask[rr, cc, i] = 1
         # Assign class_ids by reading class_names
         class_ids = np.zeros([len(info["polygons"])])
-        # In the pot_crack dataset, pictures are labeled with name 'a' and 'r' representing arm and ring.
+        # In the pot_crack dataset, pictures are labeled with name 'a' and 'r' representing pothole and crack.
         for i, p in enumerate(class_names):
             # "name" is the attributes name decided when labeling, etc. 'region_attributes': {name:'a'}
             if p['class'] == 'pothole':
@@ -250,7 +250,7 @@ def train(model, *dic):
     print("Training network heads")
     model.train(dataset_train, dataset_val,
                 learning_rate=config.LEARNING_RATE,
-                epochs=60,
+                epochs=30,
                 layers='heads')
 
 
@@ -277,7 +277,7 @@ def color_splash(image, mask):
 def detect_and_color_splash(model, image_path=None, video_path=None, out_dir=''):
     assert image_path or video_path
 
-    class_names = ['BG', 'arm', 'ring']
+    class_names = ['BG', 'pothole', 'crack']
 
     # Image or video?
     if image_path:
